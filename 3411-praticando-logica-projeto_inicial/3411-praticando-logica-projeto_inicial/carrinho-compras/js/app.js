@@ -1,5 +1,5 @@
 let totalGeral = 0
-
+// MUDEI DO GIT HUB
 function adicionar() {
     let quantidade = document.getElementById('quantidade').value;
     let produto = document.getElementById('produto').value;
@@ -30,3 +30,4 @@ function limpar() {
 
 
 }
+
